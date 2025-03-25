@@ -8,7 +8,7 @@
 ### Connect Me:
 
 <a href="https://www.linkedin.com/in/teomankirma/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://twitter.com/teomankirma"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40" height="40"/></a>
+<a href="https://x.com/teomankirma"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" width="40" height="40"/></a>
 <a href="mailto:teomankirma@gmail.com"><img src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg" width="40" height="40"/></a>
 
 ### Languages and Tools:
@@ -17,12 +17,11 @@
      <tr>
         <td>Frontend</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
      <tr>
@@ -35,15 +34,14 @@
         <td>Databases</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="40" height="40"/></a>
         </td>
     </tr>
        <tr>
         <td>IDEs</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-              <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://brandeps.com/logo-download/I/Intellij-Idea-logo-vector-01.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.42.0/files/light/cursor.png" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
