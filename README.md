@@ -1,10 +1,13 @@
 # Hello 👋, I'm Teoman.
 
-### Frontend Developer 🧑🏻‍💻
+### Full-Stack Developer ⚙️
 
-- 🔭 I’m currently working on: React Projects
-- 🌱 I’m currently improving myself in : React, Typescript
-- 👨‍💻 I’m interested in playing basketball, playing the guitar, and playing video games
+- 🚀 Building scalable web applications and distributed systems
+- 🧠 Working with React, Next.js, TypeScript on the frontend
+- 🛠 Designing APIs and backend systems using Python, Node.js, Redis, and PostgreSQL
+- ⚡ Interested in system design, async processing, and performance optimization
+- 🏀 Outside of coding: basketball, guitar, and video games
+
 ### Connect Me:
 
 <a href="https://www.linkedin.com/in/teomankirma/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
@@ -28,6 +31,10 @@
         <td>Backend</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.svgrepo.com/show/473760/postgresql.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.svgrepo.com/show/354272/redis.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
       <tr>
